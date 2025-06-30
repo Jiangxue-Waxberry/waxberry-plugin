@@ -1,0 +1,125 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.venv
+venv/
+ENV/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Docker
+.dockerignore
+*.tar
+*.tar.gz
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+*.tmp
+*.bak
+*.swp
+*.backup
+
+# Office documents (may be used for testing)
+temp_files/
+uploaded_files/
+test_files/
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+*.doc
+*.xls
+*.ppt
+*.rtf
+
+# Specific to this project
+config/local_settings.py
+config/*.local.yaml
+*.local.json
+credentials.yaml
+secrets.yaml
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Docker saved images
+*.tar
+doc-extractor*.tar
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
