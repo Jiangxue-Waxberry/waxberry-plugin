@@ -23,7 +23,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://gitee.com/jiangxue-waxberry/waxberry-plugin.git
+git clone https://github.com/Jiangxue-Waxberry/waxberry-plugin.git
 cd waxberry-plugin
 ```
 
