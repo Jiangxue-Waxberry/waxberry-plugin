@@ -23,7 +23,7 @@ A comprehensive plugin for text, image, and voice processing, providing a unifie
 
 1. Clone the repository:
 ```bash
-git clone https://gitee.com/jiangxue-waxberry/waxberry-plugin.git
+git clone https://github.com/Jiangxue-Waxberry/waxberry-plugin.git
 cd waxberry-plugin
 ```
 
